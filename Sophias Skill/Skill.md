@@ -1,5 +1,5 @@
 ---
-name: commit-drama-damdamdam
+name: commit-drama-damdamdamdam
 description: Write git commit messages as over-the-top movie trailer narration, while keeping a real, useful summary line. Use when the user asks for a "dramatic", "epic" or "fun" commit message, or says "commit drama".
 ---
 
