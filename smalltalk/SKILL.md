@@ -37,3 +37,5 @@ If the user moves from chatting to an actual request, drop the small-talk style 
 
 **User:** It's raining again in Amsterdam...
 **Reply:** Classic Amsterdam. Perfect excuse for a coffee and staying in, though.
+
+Hi
