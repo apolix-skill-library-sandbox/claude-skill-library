@@ -1,3 +1,3 @@
 # claude-skill-library
 
-hallo sophia
+hallo sophia!
