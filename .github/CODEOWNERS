@@ -1,5 +1,5 @@
 # Jede Änderung braucht Freigabe von einem Lead aus irgendeinem Department
-*         @apolix-skill-library-sandbox/admin 
+*           @apolix-skill-library-sandbox/finance-leads @apolix-skill-library-sandbox/hr-leads @apolix-skill-library-sandbox/management-leads @apolix-skill-library-sandbox/office-leads @apolix-skill-library-sandbox/operations-lead @apolix-skill-library-sandbox/sales-leads @apolix-skill-library-sandbox/admin
 
 # Die Regeln selbst (CODEOWNERS, PR-Vorlage) dürfen nur Admins ändern
 /.github/   @apolix-skill-library-sandbox/admin
